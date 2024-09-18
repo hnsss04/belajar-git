@@ -11,4 +11,4 @@ belajar git seru
 ##Harapan saya
 Saya dapat belajar dengan cepat git
 Saya bisa menguasai git dengan baik
-Semoga dapat bermanfaat bagi ksmu
+Semoga dapat bermanfaat bagi dunia
